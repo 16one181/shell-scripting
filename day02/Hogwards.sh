@@ -2,7 +2,7 @@
 
 #Hogwards house distribution
 echo "                 WELCOME TO Hogwarts School of Witchcraft and Wizardry "
-read -p "Enter Wizard name: " username
+read -p "Enter Wizard's name: " username
 
 echo -e "                            Hello $username\n                Now SORTING HAT will allot a house best suitable for you "
 
